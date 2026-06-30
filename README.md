@@ -227,4 +227,3 @@ Se você tiver alguma dúvida, sugestão ou quiser colaborar neste estudo, sinta
 <div align="center">
   <sub>Built with ❤️ during the CrewAI Study Journey</sub>
 </div>
-```
